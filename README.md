@@ -1,6 +1,15 @@
 # python-cys-mini-projects
 Python Cybersecurity mini Projects:
 
+# Hello, I'm Sonna 👋
+
+I enjoy mathematics, cybersecurity exploration, and Python automation.
+
+Currently learning:
+- Python scripting
+- Network scanning with Nmap
+- Linux tools on Kali
+
 Project List:
 1. Simple Port checker
 2. Random port checker
@@ -10,5 +19,5 @@ Project List:
 6. Cryptography
 7. Automation script for Linux
 
-Project Sescription:
-1. Simple Port scanner (coming soon...)
+Goal:
+Build practical cybersecurity tools and keep learning every week.
